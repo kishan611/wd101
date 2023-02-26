@@ -38,8 +38,8 @@ const displayEntries = () => {
     <th>Name</th>
     <th>Email Address</th>
     <th>Password</th>
-    <th>dob</th>
-    <th>Accepted terms Status</th>
+    <th>Dob</th>
+    <th>Accepted terms?</th>
     </tr>${tableEntries} </table>`;
   /*const table = `<table>${tableEntries}</table>`;*/
 
