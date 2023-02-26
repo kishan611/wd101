@@ -70,3 +70,4 @@ const saveInputForm = (event) => {
 };
 inputForm.addEventListener("submit", saveInputForm);
 displayEntries();
+
